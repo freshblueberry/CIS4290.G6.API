@@ -1,0 +1,11 @@
+C:\Users\NamLe\Desktop\Spring 2021\CIS4290\Store\Store Client Component\Store Client Component\Store Client Component\bin\Store Client Component.dll.config
+C:\Users\NamLe\Desktop\Spring 2021\CIS4290\Store\Store Client Component\Store Client Component\Store Client Component\bin\Store Client Component.dll
+C:\Users\NamLe\Desktop\Spring 2021\CIS4290\Store\Store Client Component\Store Client Component\Store Client Component\bin\Store Client Component.pdb
+C:\Users\NamLe\Desktop\Spring 2021\CIS4290\Store\Store Client Component\Store Client Component\Store Client Component\bin\Store Client Component.xml
+C:\Users\NamLe\Desktop\Spring 2021\CIS4290\Store\Store Client Component\Store Client Component\Store Client Component\obj\Debug\Store Client Component.vbprojAssemblyReference.cache
+C:\Users\NamLe\Desktop\Spring 2021\CIS4290\Store\Store Client Component\Store Client Component\Store Client Component\obj\Debug\Store_Client_Component.Resources.resources
+C:\Users\NamLe\Desktop\Spring 2021\CIS4290\Store\Store Client Component\Store Client Component\Store Client Component\obj\Debug\Store Client Component.vbproj.GenerateResource.cache
+C:\Users\NamLe\Desktop\Spring 2021\CIS4290\Store\Store Client Component\Store Client Component\Store Client Component\obj\Debug\Store Client Component.vbproj.CoreCompileInputs.cache
+C:\Users\NamLe\Desktop\Spring 2021\CIS4290\Store\Store Client Component\Store Client Component\Store Client Component\obj\Debug\Store Client Component.dll
+C:\Users\NamLe\Desktop\Spring 2021\CIS4290\Store\Store Client Component\Store Client Component\Store Client Component\obj\Debug\Store Client Component.xml
+C:\Users\NamLe\Desktop\Spring 2021\CIS4290\Store\Store Client Component\Store Client Component\Store Client Component\obj\Debug\Store Client Component.pdb
