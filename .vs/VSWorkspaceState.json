@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\API Server Components",
+    "\\API Server Components\\eCommerceAPI",
     "\\Store Client Component",
-    "\\Store Client Component\\Store Client Component",
-    "\\Store Client Component\\Store Client Component\\Store Client Component"
+    "\\Store Client Component\\Store Client Component"
   ],
+  "SelectedNode": "\\Store Client Component\\Store Client Component\\Store Client Component.sln",
   "PreviewInSolutionExplorer": false
 }

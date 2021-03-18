@@ -37,7 +37,7 @@ Store Client Component
  Returns the Asp log object.
  </summary>
 </member>
-<member name="F:Store_Client_Component.StoreProject.Category._lblMainCategoryName1">
+<member name="F:Store_Client_Component.Category._lblMainCategoryName1">
 <summary>
 lblMainCategoryName1 control.
 </summary>
@@ -46,7 +46,7 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Store_Client_Component.StoreProject.Category._lblProductList">
+<member name="F:Store_Client_Component.Category._lblProductList">
 <summary>
 lblProductList control.
 </summary>
@@ -55,7 +55,7 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Store_Client_Component.StoreProject.Category._lblMainCategoryName">
+<member name="F:Store_Client_Component.Category._lblMainCategoryName">
 <summary>
 lblMainCategoryName control.
 </summary>
